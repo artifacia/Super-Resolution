@@ -17,19 +17,19 @@ Clone the repository and store low-resolution images and their corresponding hig
 
 Input low resolution image - 1
 
-![Input low resolution](../Readme_Imgs/11Downscaled.jpg?raw=true "Input low resolution image - 1")
+![Input low resolution](https://cloud.githubusercontent.com/assets/10481640/22190209/abf98d34-e147-11e6-8e4c-11f34871c03a.jpg "Input low resolution image - 1")
 
 Output high resolution image - 1
 
-![Output high resolution](../Readme_Imgs/11level0.jpg?raw=true "Output high resolution image - 1")
+![Output high resolution](https://cloud.githubusercontent.com/assets/10481640/22190197/9ae1d416-e147-11e6-9201-1cf485b239e5.jpg "Output high resolution image - 1")
 
 Input low resolution image - 2
 
-![Input low resolution](../Readme_Imgs/16Downscaled.jpg?raw=true "Input low resolution image - 2")
+![Input low resolution](https://cloud.githubusercontent.com/assets/10481640/22190219/b76f3f56-e147-11e6-9373-9a7ba04308f7.jpg "Input low resolution image - 2")
 
 Output high resolution image - 2
 
-![Output high resolution](../Readme_Imgs/16level0.jpg?raw=true "Output high resolution image - 2")
+![Output high resolution](https://cloud.githubusercontent.com/assets/10481640/22190214/b2455e34-e147-11e6-9f62-04d2ca802873.jpg "Output high resolution image - 2")
 
 ## Authors
 
