@@ -1,6 +1,6 @@
 # Image Super-Resolution
 
-This is a project on improving the resolution of images in an attempt to make them look more appealing. This project is an implementation of Super-Resolution CNN(SRCNN) which uses 2-dimensional convolutional neural networks for super resolution. In order to make the project suitable for on-device applications, it is made sure that the used neural networks are small in size and don't require huge computations.
+This project is about converting low-resolution images to high-resolution images so that it can be used for many applications in industry which don't have high-quality images readily available. This project is an implementation of Super-Resolution CNN (SRCNN) which uses 2-dimensional convolutional neural networks for super resolution. In order to make the project suitable for on-device applications, it is made sure that the used neural networks are small in size and don't require huge computations.
 
 ### Prerequisites
 You will require the following dependencies to get the code running.
@@ -29,4 +29,4 @@ Input low resolution image - 2 ---> Output high resolution image - 2
 
 ## Authors
 
-* **Vijay Veerabadran** - *Artifacia Pvt Ltd* - [vijayvee](https://github.com/vijayvee)
+* **Vijay Veerabadran** - *Artifacia Inc.* - [vijayvee](https://github.com/vijayvee)
